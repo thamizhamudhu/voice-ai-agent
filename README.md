@@ -198,12 +198,6 @@ This prevents unintended modifications to system files.
 
 ---
 
-## Demo
-
-(Add your demo video link here)
-
----
-
 ## Author
 
 Thamizha
